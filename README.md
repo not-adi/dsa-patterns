@@ -1,2 +1,1 @@
-# dsa-patterns
-Patterns which helps in logical thinking and helping in DSA
+<h1>DSA Pattern Programs Collection</h1> <br> A comprehensive collection of pattern printing programs implemented in C++. <br> This repository serves as a reference for various pattern-based coding problems commonly asked in technical interviews and competitive programming.
